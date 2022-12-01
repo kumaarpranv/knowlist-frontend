@@ -1,6 +1,6 @@
 <script lang="ts">
-	import List from '../components/List.svelte';
+	import Graph from '../components/Graph.svelte';
 </script>
-<div class="w-screen h-screen bg-white-100">
-<List />
+<div class="w-screen h-screen">
+<Graph />
 </div>
